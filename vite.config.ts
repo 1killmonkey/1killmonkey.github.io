@@ -29,7 +29,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   return {
-    base: '/devfolio-pro---editable-portfolio/', // 🔴 CLAVE
+    base: '/1killmonkey.github.io/', // 🔴 CLAVE
 
     server: {
       port: 3000,
