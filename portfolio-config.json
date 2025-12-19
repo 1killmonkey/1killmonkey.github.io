@@ -1,0 +1,126 @@
+{
+  "theme": {
+    "primaryColor": "#4a77bf",
+    "accentColor": "#10b981",
+    "backgroundColor": "#0f172a",
+    "fontHeading": "Inter",
+    "fontBody": "Inter"
+  },
+  "hero": {
+    "name": "Daniel Dev",
+    "title": "Full Stack Engineer",
+    "tagline": "Building digital experiences that matter.",
+    "description": "I craft scalable, high-performance web applications with a focus on modern aesthetics and user experience.",
+    "avatarUrl": "https://09ac17e7fe.cbaul-cdnwnd.com/e0e63855ee975185d54ab8f31e6505e8/200000001-6b9ca6b9cc/1753999841525.webp?ph=09ac17e7fe"
+  },
+  "socials": [
+    {
+      "platform": "github",
+      "url": "https://github.com"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://linkedin.com"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com"
+    },
+    {
+      "platform": "email",
+      "url": "mailto:hello@example.com"
+    }
+  ],
+  "about": {
+    "bio": "With over 5 years of experience in the software industry, I specialize in building robust React applications and scalable Node.js backends. I'm passionate about clean code, open source, and innovative UI design.",
+    "skills": [
+      {
+        "name": "React",
+        "level": 95,
+        "category": "frontend"
+      },
+      {
+        "name": "TypeScript",
+        "level": 90,
+        "category": "frontend"
+      },
+      {
+        "name": "Node.js",
+        "level": 85,
+        "category": "backend"
+      },
+      {
+        "name": "Python",
+        "level": 80,
+        "category": "backend"
+      },
+      {
+        "name": "Docker",
+        "level": 75,
+        "category": "tools"
+      },
+      {
+        "name": "AWS",
+        "level": 70,
+        "category": "tools"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "id": "1",
+      "role": "Senior Frontend Engineer",
+      "company": "Tech Corp",
+      "period": "2021 - Present",
+      "description": "Led the migration of a legacy monolithic app to a micro-frontend architecture using React and Webpack Module Federation."
+    },
+    {
+      "id": "2",
+      "role": "Software Developer",
+      "company": "Startup Inc",
+      "period": "2019 - 2021",
+      "description": "Developed and maintained multiple client-facing applications. Optimized database queries improving load times by 40%."
+    }
+  ],
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Neon Dashboard",
+      "description": "A futuristic data visualization dashboard using D3.js and React with real-time websocket data feeds.",
+      "tags": [
+        "React",
+        "D3.js",
+        "WebSockets"
+      ],
+      "imageUrl": "https://picsum.photos/600/400",
+      "demoUrl": "#",
+      "repoUrl": "#"
+    },
+    {
+      "id": "p2",
+      "title": "E-Commerce AI",
+      "description": "An AI-powered recommendation engine for e-commerce platforms using Python and TensorFlow.",
+      "tags": [
+        "Python",
+        "TensorFlow",
+        "FastAPI"
+      ],
+      "imageUrl": "https://picsum.photos/601/400",
+      "demoUrl": "#",
+      "repoUrl": "#"
+    },
+    {
+      "id": "p3",
+      "title": "Social Graph",
+      "description": "A graph-based social network analyzer that helps users visualize their connection clusters.",
+      "tags": [
+        "TypeScript",
+        "GraphQL",
+        "Neo4j"
+      ],
+      "imageUrl": "https://picsum.photos/602/400",
+      "demoUrl": "#",
+      "repoUrl": "#"
+    }
+  ]
+}
